@@ -18,12 +18,12 @@ font: 'block',
 align: 'center',
 colors: ['white']
 });
-say(`Multi Device`, {
+say(`only one Device`, {
 font: 'chrome',
 align: 'center',
 colors: ['red']
 });
-say(`Developed By • David-Chian`, {
+say(`Developed By • Aryan-XD`, {
 font: 'console',
 align: 'center',
 colors: ['yellow']
